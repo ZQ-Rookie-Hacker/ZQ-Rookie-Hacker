@@ -8,7 +8,3 @@
 </p>
 
 ---
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZQ-Rookie-Hacker&color=7aa2f7&style=flat-square" alt="Profile Views">
-</p>
